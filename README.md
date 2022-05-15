@@ -1,4 +1,4 @@
-# tiemr
+# tiemr 时钟
 Qt 时钟界面
 
 
